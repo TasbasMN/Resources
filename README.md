@@ -63,5 +63,6 @@ The Mutation Annotation Format (MAF) file is a tab-delimited text file that cont
 ## Cancer Mutation Databases
 
 [COSMIC Cancer Database](https://cancer.sanger.ac.uk/cosmic/download)
+
 [TCGA Cancer Database](https://portal.gdc.cancer.gov/)
 []()
