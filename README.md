@@ -38,11 +38,25 @@ http://stat.wharton.upenn.edu/~buja/sci.pdf
 
 ## lncRNA Tools
 
-[ExInator](https://github.com/alanzos/ExInAtor): Creates driver mutation catalogues for each cancer
+[ExInator](https://github.com/alanzos/ExInAtor): designed to detect cancer driver long non-coding RNA genes
+
 
 [lncATLAS](https://lncatlas.crg.eu/): Find the subcellular localization of your lncRNA of interest. Contains annotated lncRNA data from GENCODE.
 
 
-[]()
-[]()
+
+## File Extensions
+
+### .maf Mutation Annotation Format
+
+The Mutation Annotation Format (MAF) file is a tab-delimited text file that contains information about the mutations detected in the sequencing project. It lists one mutation per row, and the columns (named in the header row) report several pieces of information for each mutation.
+
+
+## Platforms
+
+[GenePattern](https://www.genepattern.org/#): GenePattern provides access to a broad array of computational methods used to analyze genomic data in a graphical user interface. 
+
+[GenePattern Notebooks](https://notebook.genepattern.org/): Jupyter Notebooks repo containing many pipelines.
+
+
 []()
