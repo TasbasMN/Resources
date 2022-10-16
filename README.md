@@ -26,10 +26,23 @@ http://stat.wharton.upenn.edu/~buja/sci.pdf
 
 [Curated Bioinformatics Conferences](https://docs.google.com/spreadsheets/d/1_dAyUts51jgici9dy-l0IVPypUCRvmLsVXSrmVEXjoI/edit#gid=0)
 
-[]()
 
 []()
 
-[]()
+## General Bioinformatics Databases
 
+[GENCODE](https://www.gencodegenes.org/#): identify and classify all gene features in the human and mouse genomes 
+
+[NONCODE](http://www.noncode.org/): knowledge database dedicated to non-coding RNAs
+
+
+## lncRNA Tools
+
+[ExInator](https://github.com/alanzos/ExInAtor): Creates driver mutation catalogues for each cancer
+
+[lncATLAS](https://lncatlas.crg.eu/): Find the subcellular localization of your lncRNA of interest. Contains annotated lncRNA data from GENCODE.
+
+
+[]()
+[]()
 []()
