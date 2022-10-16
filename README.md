@@ -65,4 +65,12 @@ The Mutation Annotation Format (MAF) file is a tab-delimited text file that cont
 [COSMIC Cancer Database](https://cancer.sanger.ac.uk/cosmic/download)
 
 [TCGA Cancer Database](https://portal.gdc.cancer.gov/)
-[]()
+
+
+## Pipelines for identification of protein coding driver genes
+
+[MutSigCV](https://www.genepattern.org/modules/docs/MutSigCV): Identifies genes that are significantly mutated in cancer genomes
+
+[OncoDriveFML](https://bbglab.irbbarcelona.org/oncodrivefml/home): a method designed to analyze the pattern of somatic mutations across tumors in both coding and non-coding genomic regions to identify signals of positive selection, and therefore, their involvement in tumorigenesis.
+
+[OncoDriveCLUSTL](https://bbglab.irbbarcelona.org/oncodriveclustl/home): nucleotide sequence-based clustering algorithm to detect cancer drivers in genomic regions.
