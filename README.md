@@ -27,7 +27,7 @@ http://stat.wharton.upenn.edu/~buja/sci.pdf
 [Curated Bioinformatics Conferences](https://docs.google.com/spreadsheets/d/1_dAyUts51jgici9dy-l0IVPypUCRvmLsVXSrmVEXjoI/edit#gid=0)
 
 
-[]()
+
 
 ## General Bioinformatics Databases
 
@@ -74,3 +74,17 @@ The Mutation Annotation Format (MAF) file is a tab-delimited text file that cont
 [OncoDriveFML](https://bbglab.irbbarcelona.org/oncodrivefml/home): a method designed to analyze the pattern of somatic mutations across tumors in both coding and non-coding genomic regions to identify signals of positive selection, and therefore, their involvement in tumorigenesis.
 
 [OncoDriveCLUSTL](https://bbglab.irbbarcelona.org/oncodriveclustl/home): nucleotide sequence-based clustering algorithm to detect cancer drivers in genomic regions.
+
+
+# Useful Stuff
+
+
+[Create a timeline from a google spreadsheet](https://timeline.knightlab.com/#make)
+
+[Free & Open Source Website Builder](https://wowchemy.com/)
+
+[Academic Phrase Bank](https://www.phrasebank.manchester.ac.uk/)
+
+[Ten ways to find Open Access articles](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html)
+[]()
+[]()
